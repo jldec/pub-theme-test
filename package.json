@@ -1,0 +1,17 @@
+{
+  "name": "pub-theme-test",
+  "version": "0.5.0",
+  "description": "test-theme for pub-server",
+  "main": "pub-config.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jldec/pub-theme-test.git"
+  },
+  "author": "jurgen leschner",
+  "license": "MIT"
+}
