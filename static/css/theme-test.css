@@ -51,6 +51,10 @@ top:0;
 left:0;
 }
 
+a.nav:hover {
+color:#fff;
+}
+
 .theme-test {
 color: red;
 font-size: larger;
