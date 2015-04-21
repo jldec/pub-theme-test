@@ -1,6 +1,6 @@
 {
   "name": "pub-theme-test",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "test-theme for pub-server",
   "main": "pub-config.js",
   "license": "MIT",

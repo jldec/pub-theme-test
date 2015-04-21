@@ -6,10 +6,10 @@ module.exports = {
   'pub-pkg': 'pub-theme-test',
 
   sources: [
-    { path:'./src', fragmentDelim:true, watch:true },
+    { path:'./src', fragmentDelim:true },
   ],
 
-  staticPaths: { path:'./static', watch:true },
+  staticPaths: './static',
 
   generatorPlugins: './plugins/generator-plugin.js',
 
