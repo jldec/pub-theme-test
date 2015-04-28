@@ -6,7 +6,7 @@ module.exports = {
   'pub-pkg': 'pub-theme-test',
 
   sources: [
-    { path:'./src', fragmentDelim:true },
+    { path:'./src', fragmentDelim:true, writable:true },
   ],
 
   staticPaths: './static',
