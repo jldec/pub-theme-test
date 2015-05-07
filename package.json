@@ -1,6 +1,6 @@
 {
   "name": "pub-theme-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test-theme for pub-server",
   "main": "pub-config.js",
   "dependencies": {
