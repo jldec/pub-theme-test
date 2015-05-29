@@ -6,6 +6,6 @@ test-theme for pub-server
 
 ```sh
 npm install pub-theme-test
-pub -t test
+pub -t pub-theme-test
 ```
 
